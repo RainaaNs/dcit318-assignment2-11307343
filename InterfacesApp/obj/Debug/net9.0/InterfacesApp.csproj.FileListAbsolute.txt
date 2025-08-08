@@ -1,0 +1,15 @@
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\bin\Debug\net9.0\InterfacesApp.exe
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\bin\Debug\net9.0\InterfacesApp.deps.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\bin\Debug\net9.0\InterfacesApp.runtimeconfig.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\bin\Debug\net9.0\InterfacesApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\bin\Debug\net9.0\InterfacesApp.pdb
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.AssemblyInfoInputs.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.AssemblyInfo.cs
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.csproj.CoreCompileInputs.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.sourcelink.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\refint\InterfacesApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.pdb
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\InterfacesApp.genruntimeconfig.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment2-11307343\InterfacesApp\obj\Debug\net9.0\ref\InterfacesApp.dll
